@@ -1,4 +1,5 @@
 Scope:-
+
 The scope of this task is to get a full functioning project. You can use any tech stack of your choice.
 
 Setup a project
@@ -8,13 +9,15 @@ Login Form:-
 Following fields should be there:
 1. Phone Number/Email
 2. Password
+
 Note:-
 1. Proper validation on the fields is expected.
-2. Depending on the input data in field, the email or phone number validation should be there i.e. User can login with email or with phone number using the same field.
+2. Depending on the input data in field, the email or phone number validation should be there i.e. User should be able to login with email or phone number using the same input field.
 
-LogIn Button
-Register Now Link
-Forget Password Link
+Required Functionality:
+1. LogIn Button
+2. Register Now Link
+3. Forget Password Link
 
 Registration Form:-
 
@@ -23,40 +26,53 @@ Following fields should be there:
 2. Email
 3. Password
 4. Confirm Password
+
 Note:- Proper validation on the fields is expected.
 
-Register Now Button
-LogIn Link
+Required Functionality:
+1. Register Now Button
+2. LogIn Link
 
 Forget Password Form:-
 
 Following fields should be there:
 1. Confirm Email id
+
 Note:- Proper validation on the fields is expected.
 
-Send email functionality should be integrated to send OTP for verification.
-Send OTP Button
+Required Functionality:
+1. Send email functionality should be integrated to send OTP for verification.
+2. Send OTP Button
 
 OTP Verification:-
 
 Following fields should be there:
 1. Verify OTP
+
 Note:- Proper validation on the fields is expected.
 
-Confirm OTP Button
+Required Functionality:
+1. Confirm OTP Button
 
 Confirm Password:-
 
 Following fields should be there:
 1. New Password
 2. Confirm Password
+
 Note:- Proper validation on the fields is expected.
 
-Reset Password Button
+Required Functionality:
+1. Reset Password Button
 
 Dashboard:-
 
-Proper functioning dashboard with header, drawer sidebar, routing, logout functionality, view profile, etc
+Proper functioning dashboard with: 
+1. header
+2. drawer sidebar
+3. routing
+4. logout functionality
+5. view profile, etc
 
 Table Component (Optional):-
 
